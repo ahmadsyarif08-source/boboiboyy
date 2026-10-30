@@ -1,0 +1,6 @@
+{
+  "name": "Monsta Galaxy Battle — BoBoiBoy 1v1",
+  "description": "Permainan kartu pertarungan 1 lawan 1 BoBoiBoy Monsta Galaxy Card Pek Blazing Frost lengkap dengan mekanisme Zona Aktif, Adu Suit Elemen (Air, Api, Daun), Kartu Pendukung, Evolusi Karakter Bersyarat, dan Penyusun Dek.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
